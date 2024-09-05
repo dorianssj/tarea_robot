@@ -1,0 +1,217 @@
+.caja1
+{
+    background-color: greenyellow;
+    padding: 30px;
+    width: 10px; height: 10px;
+    border-radius: 40px;
+    border-top: 40px;
+    top: 100px;
+    left: 300px;
+    position: absolute;
+}
+.caja2
+{
+    background-color: blue;
+    width: 5px; height: 80px;
+    right: 40px;
+    top: 160px;
+    left: 330px;
+    position: absolute;
+}
+.caja3
+{
+    background-color: red;
+    width: 200px; height: 200px;
+    right: 40px;
+    left:230px;
+    top: 230px;
+    position: absolute;
+}
+.caja3-1
+{
+    background-color: blueviolet;
+    width: 40px; height: 40px;
+    position: absolute;
+    right: 70px;
+    left: 40px;
+    top: 30px;
+    
+}
+.caja3-2
+{
+    background-color: blueviolet;
+    width: 40px; height: 40px;
+    position: absolute;
+    right: 100px;
+    left: 130px;
+    top: 30px;
+    
+}
+.caja3-1-1
+{
+    background-color: black;
+    width: 15px; height: 15px;
+    position: absolute;  
+    right: 10px;
+    left: 10px;
+    top: 10px;
+}
+.caja3-2-1
+{
+    background-color: black;
+    width: 15px; height: 15px;
+    position: absolute;
+    right: 10px;
+    left: 10px;
+    top: 10px;
+}
+.caja3-3
+{
+    background-color: greenyellow;
+    padding: 10px;
+    width: 20px; height: 20px;
+    border-radius: 10px;
+    border-top: 10px;
+    top: 80px;
+    right: 10px;
+    left: 85px;
+    position: absolute;
+}
+.caja3-4
+{
+    background-color: blue;
+    width: 170px; height: 50px;
+    position: absolute;
+    right: 10px;
+    left: 15px;
+    top: 130px;
+}
+.caja3-4-1
+{
+    background-color: black;
+    width: 140px; height: 10px;
+    position: absolute;
+    right: 10px;
+    left: 15px;
+    top: 20px;
+}
+.caja4
+{
+    background-color: greenyellow;
+    padding: 10px;
+    width: 20px; height: 20px;
+    border-radius: 10px;
+    border-top: 10px;
+    top: 300px;
+    right: 10px;
+    left: 190px;
+    position: absolute;
+}
+.caja4-1
+{
+    background-color: greenyellow;
+    padding: 10px;
+    width: 20px; height: 20px;
+    border-radius: 10px;
+    border-top: 10px;
+    top: 5px;
+    right: 10px;
+    left: 240px;
+    position: absolute;
+}
+.cuello
+{
+    background-color: red;
+    width: 70px; height: 50px;
+    right: 40px;
+    left:300px;
+    top: 420px;
+    position: absolute;
+}
+.pecho
+{
+    background-color: red;
+    width:200px; height: 200px;
+    right: 40px;
+    left:230px;
+    top: 470px;
+    position: absolute;
+}
+.abdomen
+{
+    background-color: greenyellow;
+    width: 150px; height: 50px;
+    right: 40px;
+    left:30px;
+    top: 30px;
+    position: absolute;
+}
+.abdomen2
+{
+    background-color: greenyellow;
+    width: 150px; height: 50px;
+    right: 40px;
+    left:30px;
+    top: 110px;
+    position: absolute;
+}
+.abdomen3
+{
+    background-color: red;
+    width: 150; height:30px ;
+    right: 40px;
+    left:40px;
+    top: 200px;
+    position: absolute;
+}
+.braso
+{
+    background-color: blueviolet;
+    width: 180px; height: 20px;
+    position: absolute;
+    top: 500px;
+    left: 75px;
+    transform: rotate(45deg);
+}
+.braso2
+{
+    background-color: blueviolet;
+    width: 180px; height: 20px;
+    position: absolute;
+    top: 500px;
+    left: 400px;
+    transform: rotate(130deg);
+}
+.piernas
+{
+    background-color: red;
+    width:200px; height: 200px;
+    right: 40px;
+    left:230px;
+    top: 700px;
+    position: absolute;
+}
+.pierna1
+{
+    background-color: greenyellow;
+    width: 40px; height: 150px;
+    left: 20px;
+    top: 40px;
+    position: absolute;
+}
+.pierna2
+{
+    background-color: greenyellow;
+    width: 40px; height: 150px;
+    left: 80px;
+    top: 40px;
+    position: absolute;
+}
+.pierna3
+{
+    background-color: greenyellow;
+    width: 40px; height: 150px;
+    left: 140px;
+    top: 40px;
+    position: absolute;
+}
